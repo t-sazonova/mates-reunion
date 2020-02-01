@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Page Not Found</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+
+    * {
+      line-height: 1.2;
+      margin: 0;
+    }
+
+    html {
+      color: #888;
+      display: table;
+      font-family: sans-serif;
+      height: 100%;
+      text-align: center;
+      width: 100%;
+    }
+
+    body {
+      display: table-cell;
+      vertical-align: middle;
+      margin: 2em auto;
+      background-color: #efefef;
+    }
+
+    h1, .header-error {
+      color: #555;
+      font-size: 2em;
+      font-weight: 400;
+
+    }
+
+    p, .text-error {
+      margin: 0 auto;
+      width: 280px;
+    }
+
+    code, .log-error {
+      font-family: Consolas, Monospaced, monospace, monospace;
+      background-color: #c0c0c0;
+      color: #000;
+    }
+
+    @media only screen and (max-width: 280px) {
+
+      body, p {
+        width: 95%;
+      }
+
+      h1 {
+        font-size: 1.5em;
+        margin: 0 0 0.3em;
+      }
+
+    }
+  </style>
+</head>
+
+<body>
+<h1 class="header-error">Ой!</h1>
+<p class="text-error">Кажется, что-то пошло не так.</p>
+<p class="text-error">Но это мелочи.</p>
+<p class="text-error">Сообщите Марине Викторовне или Даниилу этот код.</p>
+<p><code class="log-error">err_nan</code></p>
+</body>
+
+</html>

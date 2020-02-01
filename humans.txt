@@ -1,15 +1,19 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
-
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	Full-stack developer, DevOps engineer, Web-design: Daniel A. Sazonov
 
 # THANKS
+	Design, UI: Tatiana B. Sazonova
+	Idea, support: Marina V. Agarkova
 
-    <name>
-
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY STACK
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    JQuery, Modernizr, Normalize.css
+
+# SITE
+	Last update: 2019/12/11 3:46
+	Language: Russian
+	Doctype: HTML5
+	IDE: PhpStorm, Notepad++, Photoshop
+

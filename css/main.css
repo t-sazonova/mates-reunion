@@ -37,6 +37,10 @@ html {
   text-shadow: none;
 }
 
+p {
+  margin: 0;
+}
+
 /*
  * A better looking default horizontal rule
  */
